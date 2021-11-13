@@ -20,6 +20,7 @@
   ◪ THX PENYEDIA REST API 
   ◪ THX PENYEDIA MODULE
   ◪ THX PENGGUNA BOTWEA 
+  ◪ THX BOT CHROMOSOME
 */
 ///====================================================///
 
